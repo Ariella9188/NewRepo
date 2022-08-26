@@ -8,8 +8,8 @@ namespace DOE522_FA2_9188_CProject
         public int searchSubstring(string normalS, string searchS)
         {
             //search for the correct string
-            int srch = normalS.IndexOf(searchS);
-            return srch;
+            int search = normalS.IndexOf(searchS);
+            return search;
         }
         //Method 2
         public void ReplaceSubString(string normalS, string replacer, string f)
