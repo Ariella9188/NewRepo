@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DOE522_FA2_9188_CProject/1.0.0": {
+        "runtime": {
+          "DOE522_FA2_9188_CProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DOE522_FA2_9188_CProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
